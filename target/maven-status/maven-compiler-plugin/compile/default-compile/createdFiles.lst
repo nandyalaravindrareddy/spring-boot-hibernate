@@ -1,0 +1,9 @@
+com/wellsfargo/controller/SAcctRolesController.class
+com/wellsfargo/repository/SAcctRoleRepository.class
+com/wellsfargo/dto/GcpSAcctRole$GcpSAcctRoleBuilder.class
+com/wellsfargo/dto/SAcctRoleData.class
+com/wellsfargo/data/SAcctRole.class
+com/wellsfargo/SpringBootHibernateApplication.class
+com/wellsfargo/service/DefaultSAcctRoleService.class
+com/wellsfargo/dto/GcpSAcctRole.class
+com/wellsfargo/service/SAcctRoleService.class
