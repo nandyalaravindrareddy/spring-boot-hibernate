@@ -1,8 +1,0 @@
-/home/india/GCP_RnD/spring-boot-hibernate/src/main/java/com/wellsfargo/data/SAcctRole.java
-/home/india/GCP_RnD/spring-boot-hibernate/src/main/java/com/wellsfargo/dto/SAcctRoleData.java
-/home/india/GCP_RnD/spring-boot-hibernate/src/main/java/com/wellsfargo/controller/SAcctRolesController.java
-/home/india/GCP_RnD/spring-boot-hibernate/src/main/java/com/wellsfargo/service/DefaultSAcctRoleService.java
-/home/india/GCP_RnD/spring-boot-hibernate/src/main/java/com/wellsfargo/dto/GcpSAcctRole.java
-/home/india/GCP_RnD/spring-boot-hibernate/src/main/java/com/wellsfargo/SpringBootHibernateApplication.java
-/home/india/GCP_RnD/spring-boot-hibernate/src/main/java/com/wellsfargo/repository/SAcctRoleRepository.java
-/home/india/GCP_RnD/spring-boot-hibernate/src/main/java/com/wellsfargo/service/SAcctRoleService.java
