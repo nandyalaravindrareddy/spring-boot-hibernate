@@ -67,7 +67,7 @@ public class SendMail {
 
             try {
 
-                File f =new File("/home/india/GCP_RnD/test/mygcprnd/apply_complete.json");
+                File f =new File(args[0]);
 
                 attachmentPart.attachFile(f);
                 textPart.setText("This is text");
@@ -82,7 +82,7 @@ public class SendMail {
 
             message.setContent(multipart);
 
-            System.out.println("sending...");
+            System.out.println("sending message...");
             // Send message
             Transport.send(message);
             System.out.println("Sent message successfully....");

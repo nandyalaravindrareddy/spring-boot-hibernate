@@ -45,6 +45,10 @@ public class SAcctRolesController {
         return SAcctRoleService.saveSAcctRole(SAcctRoleData);
     }
 
+    @PutMapping("/saveSAcctRole")
+    public SAcctRoleData updateSAcctRole(final @RequestBody SAcctRoleData SAcctRoleData){
+        return SAcctRoleService.saveSAcctRole(SAcctRoleData);
+    }
 
     @DeleteMapping("/deleteSAcctRole/{id}")
     public Boolean deleteCustomer(@PathVariable Long id){
